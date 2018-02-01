@@ -1,0 +1,1 @@
+[{"address":"<P2SH address of unspent Bcash output>","txid":"<txid of transaction with unspent output>","vout":<unspent output index>,"satoshis":<e.g. 123456789>,"amount":<e.g. 1.23456789>,"scriptPubKey":"<scriptPubKey of unspent output>","confirmations":1}]
